@@ -1,0 +1,24 @@
+{
+  "name": "roondiscordgameactivity",
+  "version": "1.0.0",
+  "description": "Display what you're listening to in Roon as your Game Activity status in Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aidanpirish/RoonDiscordGameActivity.git"
+  },
+  "author": "Aida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aidanpirish/RoonDiscordGameActivity/issues"
+  },
+  "homepage": "https://github.com/aidanpirish/RoonDiscordGameActivity#readme",
+  "dependencies": {
+    "discord-rpc": "^3.1.4",
+    "node-roon-api": "github:roonlabs/node-roon-api",
+    "node-roon-api-status": "github:roonlabs/node-roon-api-status"
+  }
+}

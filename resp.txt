@@ -1,0 +1,482 @@
+<- CONTINUE 2 Changed {"zones_changed":[{"zone_id":"16014625721613bb2800bd056aa35ecd7756","display_name":"Audio-gd","out
+3bb2800bd056aa35ecd7756","170101f4e7653b19ea9ca37496b1360abd50","17010b35c9c573809c842fa0ac83c105b958","1701652e15f6d8d7
+hard_limit_max":100,"soft_limit":100},"source_controls":[{"control_key":"1","display_name":"Audio-gd","supports_standby"
+,"is_seek_allowed":false,"queue_items_remaining":3,"queue_time_remaining":681,"settings":{"loop":"disabled","shuffle":tr
+:"You Know More Than I Know","line2":"John Cale"},"three_line":{"line1":"You Know More Than I Know","line2":"John Cale",
+_id":"16014625721613bb2800bd056aa35ecd7756","queue_time_remaining":681,"seek_position":null}]}
+3f6eb313-d0f0-4123-9f72-139a53681764 DESKTOP-4T1V6D8 1.7 (build 710) stable - Changed {
+  "zones_changed": [
+    {
+      "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+      "display_name": "Audio-gd",
+      "outputs": [
+        {
+          "output_id": "17014625721613bb2800bd056aa35ecd7756",
+          "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+          "can_group_with_output_ids": [
+            "17014625721613bb2800bd056aa35ecd7756",
+            "170101f4e7653b19ea9ca37496b1360abd50",
+            "17010b35c9c573809c842fa0ac83c105b958",
+            "1701652e15f6d8d7d23e463382a246f5039b"
+          ],
+          "display_name": "Audio-gd",
+          "volume": {
+            "type": "number",
+            "min": 0,
+            "max": 100,
+            "value": 100,
+            "step": 1,
+            "is_muted": false,
+            "hard_limit_min": 0,
+            "hard_limit_max": 100,
+            "soft_limit": 100
+          },
+          "source_controls": [
+            {
+              "control_key": "1",
+              "display_name": "Audio-gd",
+              "supports_standby": false,
+              "status": "indeterminate"
+            }
+          ]
+        }
+      ],
+      "state": "loading",
+      "is_next_allowed": true,
+      "is_previous_allowed": true,
+      "is_pause_allowed": true,
+      "is_play_allowed": false,
+      "is_seek_allowed": false,
+      "queue_items_remaining": 3,
+      "queue_time_remaining": 681,
+      "settings": {
+        "loop": "disabled",
+        "shuffle": true,
+        "auto_radio": true
+      },
+      "now_playing": {
+        "seek_position": null,
+        "length": 213,
+        "one_line": {
+          "line1": "You Know More Than I Know - John Cale"
+        },
+        "two_line": {
+          "line1": "You Know More Than I Know",
+          "line2": "John Cale"
+        },
+        "three_line": {
+          "line1": "You Know More Than I Know",
+          "line2": "John Cale",
+          "line3": "Fear"
+        },
+        "image_key": "f34288ad6942930478014b8c3569416c",
+        "artist_image_keys": [
+          "2427b9d785f9172b051b1190ea190856"
+        ]
+      }
+    }
+  ],
+  "zones_seek_changed": [
+    {
+      "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+      "queue_time_remaining": 681,
+      "seek_position": null
+    }
+  ]
+}
+<- CONTINUE 2 Changed {"zones_changed":[{"zone_id":"16014625721613bb2800bd056aa35ecd7756","display_name":"Audio-gd","out
+3bb2800bd056aa35ecd7756","170101f4e7653b19ea9ca37496b1360abd50","17010b35c9c573809c842fa0ac83c105b958","1701652e15f6d8d7
+hard_limit_max":100,"soft_limit":100},"source_controls":[{"control_key":"1","display_name":"Audio-gd","supports_standby"
+,"is_seek_allowed":true,"queue_items_remaining":3,"queue_time_remaining":681,"settings":{"loop":"disabled","shuffle":tru
+u Know More Than I Know","line2":"John Cale"},"three_line":{"line1":"You Know More Than I Know","line2":"John Cale","lin
+:"16014625721613bb2800bd056aa35ecd7756","queue_time_remaining":681,"seek_position":0}]}
+3f6eb313-d0f0-4123-9f72-139a53681764 DESKTOP-4T1V6D8 1.7 (build 710) stable - Changed {
+  "zones_changed": [
+    {
+      "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+      "display_name": "Audio-gd",
+      "outputs": [
+        {
+          "output_id": "17014625721613bb2800bd056aa35ecd7756",
+          "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+          "can_group_with_output_ids": [
+            "17014625721613bb2800bd056aa35ecd7756",
+            "170101f4e7653b19ea9ca37496b1360abd50",
+            "17010b35c9c573809c842fa0ac83c105b958",
+            "1701652e15f6d8d7d23e463382a246f5039b"
+          ],
+          "display_name": "Audio-gd",
+          "volume": {
+            "type": "number",
+            "min": 0,
+            "max": 100,
+            "value": 100,
+            "step": 1,
+            "is_muted": false,
+            "hard_limit_min": 0,
+            "hard_limit_max": 100,
+            "soft_limit": 100
+          },
+          "source_controls": [
+            {
+              "control_key": "1",
+              "display_name": "Audio-gd",
+              "supports_standby": false,
+              "status": "indeterminate"
+            }
+          ]
+        }
+      ],
+      "state": "playing",
+      "is_next_allowed": true,
+      "is_previous_allowed": true,
+      "is_pause_allowed": true,
+      "is_play_allowed": false,
+      "is_seek_allowed": true,
+      "queue_items_remaining": 3,
+      "queue_time_remaining": 681,
+      "settings": {
+        "loop": "disabled",
+        "shuffle": true,
+        "auto_radio": true
+      },
+      "now_playing": {
+        "seek_position": 0,
+        "length": 213,
+        "one_line": {
+          "line1": "You Know More Than I Know - John Cale"
+        },
+        "two_line": {
+          "line1": "You Know More Than I Know",
+          "line2": "John Cale"
+        },
+        "three_line": {
+          "line1": "You Know More Than I Know",
+          "line2": "John Cale",
+          "line3": "Fear"
+        },
+        "image_key": "f34288ad6942930478014b8c3569416c",
+        "artist_image_keys": [
+          "2427b9d785f9172b051b1190ea190856"
+        ]
+      }
+    }
+  ],
+  "zones_seek_changed": [
+    {
+      "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+      "queue_time_remaining": 681,
+      "seek_position": 0
+    }
+  ]
+}
+<- CONTINUE 2 Changed {"zones_seek_changed":[{"zone_id":"16014625721613bb2800bd056aa35ecd7756","queue_time_remaining":68
+3f6eb313-d0f0-4123-9f72-139a53681764 DESKTOP-4T1V6D8 1.7 (build 710) stable - Changed {
+  "zones_seek_changed": [
+    {
+      "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+      "queue_time_remaining": 680,
+      "seek_position": 1
+    }
+  ]
+}
+<- CONTINUE 2 Changed {"zones_seek_changed":[{"zone_id":"16014625721613bb2800bd056aa35ecd7756","queue_time_remaining":67
+3f6eb313-d0f0-4123-9f72-139a53681764 DESKTOP-4T1V6D8 1.7 (build 710) stable - Changed {
+  "zones_seek_changed": [
+    {
+      "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+      "queue_time_remaining": 679,
+      "seek_position": 2
+    }
+  ]
+}
+<- CONTINUE 2 Changed {"zones_seek_changed":[{"zone_id":"16014625721613bb2800bd056aa35ecd7756","queue_time_remaining":67
+3f6eb313-d0f0-4123-9f72-139a53681764 DESKTOP-4T1V6D8 1.7 (build 710) stable - Changed {
+  "zones_seek_changed": [
+    {
+      "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+      "queue_time_remaining": 678,
+      "seek_position": 3
+    }
+  ]
+}
+<- CONTINUE 2 Changed {"zones_seek_changed":[{"zone_id":"16014625721613bb2800bd056aa35ecd7756","queue_time_remaining":67
+3f6eb313-d0f0-4123-9f72-139a53681764 DESKTOP-4T1V6D8 1.7 (build 710) stable - Changed {
+  "zones_seek_changed": [
+    {
+      "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+      "queue_time_remaining": 677,
+      "seek_position": 4
+    }
+  ]
+}
+<- CONTINUE 2 Changed {"zones_seek_changed":[{"zone_id":"16014625721613bb2800bd056aa35ecd7756","queue_time_remaining":67
+3f6eb313-d0f0-4123-9f72-139a53681764 DESKTOP-4T1V6D8 1.7 (build 710) stable - Changed {
+  "zones_seek_changed": [
+    {
+      "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+      "queue_time_remaining": 676,
+      "seek_position": 5
+    }
+  ]
+}
+<- CONTINUE 2 Changed {"zones_seek_changed":[{"zone_id":"16014625721613bb2800bd056aa35ecd7756","queue_time_remaining":67
+3f6eb313-d0f0-4123-9f72-139a53681764 DESKTOP-4T1V6D8 1.7 (build 710) stable - Changed {
+  "zones_seek_changed": [
+    {
+      "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+      "queue_time_remaining": 675,
+      "seek_position": 6
+    }
+  ]
+}
+<- CONTINUE 2 Changed {"zones_seek_changed":[{"zone_id":"16014625721613bb2800bd056aa35ecd7756","queue_time_remaining":67
+3f6eb313-d0f0-4123-9f72-139a53681764 DESKTOP-4T1V6D8 1.7 (build 710) stable - Changed {
+  "zones_seek_changed": [
+    {
+      "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+      "queue_time_remaining": 674,
+      "seek_position": 7
+    }
+  ]
+}
+<- CONTINUE 2 Changed {"zones_seek_changed":[{"zone_id":"16014625721613bb2800bd056aa35ecd7756","queue_time_remaining":67
+3f6eb313-d0f0-4123-9f72-139a53681764 DESKTOP-4T1V6D8 1.7 (build 710) stable - Changed {
+  "zones_seek_changed": [
+    {
+      "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+      "queue_time_remaining": 673,
+      "seek_position": 8
+    }
+  ]
+}
+<- CONTINUE 2 Changed {"zones_seek_changed":[{"zone_id":"16014625721613bb2800bd056aa35ecd7756","queue_time_remaining":67
+3f6eb313-d0f0-4123-9f72-139a53681764 DESKTOP-4T1V6D8 1.7 (build 710) stable - Changed {
+  "zones_seek_changed": [
+    {
+      "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+      "queue_time_remaining": 672,
+      "seek_position": 9
+    }
+  ]
+}
+<- CONTINUE 2 Changed {"zones_seek_changed":[{"zone_id":"16014625721613bb2800bd056aa35ecd7756","queue_time_remaining":67
+3f6eb313-d0f0-4123-9f72-139a53681764 DESKTOP-4T1V6D8 1.7 (build 710) stable - Changed {
+  "zones_seek_changed": [
+    {
+      "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+      "queue_time_remaining": 671,
+      "seek_position": 10
+    }
+  ]
+}
+<- CONTINUE 2 Changed {"zones_seek_changed":[{"zone_id":"16014625721613bb2800bd056aa35ecd7756","queue_time_remaining":67
+3f6eb313-d0f0-4123-9f72-139a53681764 DESKTOP-4T1V6D8 1.7 (build 710) stable - Changed {
+  "zones_seek_changed": [
+    {
+      "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+      "queue_time_remaining": 670,
+      "seek_position": 11
+    }
+  ]
+}
+<- CONTINUE 2 Changed {"zones_seek_changed":[{"zone_id":"16014625721613bb2800bd056aa35ecd7756","queue_time_remaining":66
+3f6eb313-d0f0-4123-9f72-139a53681764 DESKTOP-4T1V6D8 1.7 (build 710) stable - Changed {
+  "zones_seek_changed": [
+    {
+      "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+      "queue_time_remaining": 669,
+      "seek_position": 12
+    }
+  ]
+}
+<- CONTINUE 2 Changed {"zones_seek_changed":[{"zone_id":"16014625721613bb2800bd056aa35ecd7756","queue_time_remaining":66
+3f6eb313-d0f0-4123-9f72-139a53681764 DESKTOP-4T1V6D8 1.7 (build 710) stable - Changed {
+  "zones_seek_changed": [
+    {
+      "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+      "queue_time_remaining": 668,
+      "seek_position": 13
+    }
+  ]
+}
+<- CONTINUE 2 Changed {"zones_seek_changed":[{"zone_id":"16014625721613bb2800bd056aa35ecd7756","queue_time_remaining":66
+3f6eb313-d0f0-4123-9f72-139a53681764 DESKTOP-4T1V6D8 1.7 (build 710) stable - Changed {
+  "zones_seek_changed": [
+    {
+      "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+      "queue_time_remaining": 667,
+      "seek_position": 14
+    }
+  ]
+}
+<- CONTINUE 2 Changed {"zones_seek_changed":[{"zone_id":"16014625721613bb2800bd056aa35ecd7756","queue_time_remaining":66
+3f6eb313-d0f0-4123-9f72-139a53681764 DESKTOP-4T1V6D8 1.7 (build 710) stable - Changed {
+  "zones_seek_changed": [
+    {
+      "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+      "queue_time_remaining": 666,
+      "seek_position": 15
+    }
+  ]
+}
+<- CONTINUE 2 Changed {"zones_seek_changed":[{"zone_id":"16014625721613bb2800bd056aa35ecd7756","queue_time_remaining":66
+3f6eb313-d0f0-4123-9f72-139a53681764 DESKTOP-4T1V6D8 1.7 (build 710) stable - Changed {
+  "zones_seek_changed": [
+    {
+      "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+      "queue_time_remaining": 665,
+      "seek_position": 16
+    }
+  ]
+}
+<- CONTINUE 2 Changed {"zones_seek_changed":[{"zone_id":"16014625721613bb2800bd056aa35ecd7756","queue_time_remaining":66
+3f6eb313-d0f0-4123-9f72-139a53681764 DESKTOP-4T1V6D8 1.7 (build 710) stable - Changed {
+  "zones_seek_changed": [
+    {
+      "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+      "queue_time_remaining": 664,
+      "seek_position": 17
+    }
+  ]
+}
+<- CONTINUE 2 Changed {"zones_seek_changed":[{"zone_id":"16014625721613bb2800bd056aa35ecd7756","queue_time_remaining":66
+3f6eb313-d0f0-4123-9f72-139a53681764 DESKTOP-4T1V6D8 1.7 (build 710) stable - Changed {
+  "zones_seek_changed": [
+    {
+      "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+      "queue_time_remaining": 663,
+      "seek_position": 18
+    }
+  ]
+}
+<- CONTINUE 2 Changed {"zones_seek_changed":[{"zone_id":"16014625721613bb2800bd056aa35ecd7756","queue_time_remaining":66
+3f6eb313-d0f0-4123-9f72-139a53681764 DESKTOP-4T1V6D8 1.7 (build 710) stable - Changed {
+  "zones_seek_changed": [
+    {
+      "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+      "queue_time_remaining": 662,
+      "seek_position": 19
+    }
+  ]
+}
+<- CONTINUE 2 Changed {"zones_seek_changed":[{"zone_id":"16014625721613bb2800bd056aa35ecd7756","queue_time_remaining":66
+3f6eb313-d0f0-4123-9f72-139a53681764 DESKTOP-4T1V6D8 1.7 (build 710) stable - Changed {
+  "zones_seek_changed": [
+    {
+      "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+      "queue_time_remaining": 661,
+      "seek_position": 20
+    }
+  ]
+}
+<- CONTINUE 2 Changed {"zones_seek_changed":[{"zone_id":"16014625721613bb2800bd056aa35ecd7756","queue_time_remaining":66
+3f6eb313-d0f0-4123-9f72-139a53681764 DESKTOP-4T1V6D8 1.7 (build 710) stable - Changed {
+  "zones_seek_changed": [
+    {
+      "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+      "queue_time_remaining": 660,
+      "seek_position": 21
+    }
+  ]
+}
+<- CONTINUE 2 Changed {"zones_seek_changed":[{"zone_id":"16014625721613bb2800bd056aa35ecd7756","queue_time_remaining":65
+3f6eb313-d0f0-4123-9f72-139a53681764 DESKTOP-4T1V6D8 1.7 (build 710) stable - Changed {
+  "zones_seek_changed": [
+    {
+      "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+      "queue_time_remaining": 659,
+      "seek_position": 22
+    }
+  ]
+}
+<- CONTINUE 2 Changed {"zones_seek_changed":[{"zone_id":"16014625721613bb2800bd056aa35ecd7756","queue_time_remaining":65
+3f6eb313-d0f0-4123-9f72-139a53681764 DESKTOP-4T1V6D8 1.7 (build 710) stable - Changed {
+  "zones_seek_changed": [
+    {
+      "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+      "queue_time_remaining": 658,
+      "seek_position": 23
+    }
+  ]
+}
+<- CONTINUE 2 Changed {"zones_seek_changed":[{"zone_id":"16014625721613bb2800bd056aa35ecd7756","queue_time_remaining":65
+3f6eb313-d0f0-4123-9f72-139a53681764 DESKTOP-4T1V6D8 1.7 (build 710) stable - Changed {
+  "zones_seek_changed": [
+    {
+      "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+      "queue_time_remaining": 657,
+      "seek_position": 24
+    }
+  ]
+}
+<- CONTINUE 2 Changed {"zones_seek_changed":[{"zone_id":"16014625721613bb2800bd056aa35ecd7756","queue_time_remaining":65
+3f6eb313-d0f0-4123-9f72-139a53681764 DESKTOP-4T1V6D8 1.7 (build 710) stable - Changed {
+  "zones_seek_changed": [
+    {
+      "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+      "queue_time_remaining": 656,
+      "seek_position": 25
+    }
+  ]
+}
+<- CONTINUE 2 Changed {"zones_seek_changed":[{"zone_id":"16014625721613bb2800bd056aa35ecd7756","queue_time_remaining":65
+3f6eb313-d0f0-4123-9f72-139a53681764 DESKTOP-4T1V6D8 1.7 (build 710) stable - Changed {
+  "zones_seek_changed": [
+    {
+      "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+      "queue_time_remaining": 655,
+      "seek_position": 26
+    }
+  ]
+}
+<- CONTINUE 2 Changed {"zones_seek_changed":[{"zone_id":"16014625721613bb2800bd056aa35ecd7756","queue_time_remaining":65
+3f6eb313-d0f0-4123-9f72-139a53681764 DESKTOP-4T1V6D8 1.7 (build 710) stable - Changed {
+  "zones_seek_changed": [
+    {
+      "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+      "queue_time_remaining": 654,
+      "seek_position": 27
+    }
+  ]
+}
+<- CONTINUE 2 Changed {"zones_seek_changed":[{"zone_id":"16014625721613bb2800bd056aa35ecd7756","queue_time_remaining":65
+3f6eb313-d0f0-4123-9f72-139a53681764 DESKTOP-4T1V6D8 1.7 (build 710) stable - Changed {
+  "zones_seek_changed": [
+    {
+      "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+      "queue_time_remaining": 653,
+      "seek_position": 28
+    }
+  ]
+}
+<- CONTINUE 2 Changed {"zones_seek_changed":[{"zone_id":"16014625721613bb2800bd056aa35ecd7756","queue_time_remaining":65
+3f6eb313-d0f0-4123-9f72-139a53681764 DESKTOP-4T1V6D8 1.7 (build 710) stable - Changed {
+  "zones_seek_changed": [
+    {
+      "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+      "queue_time_remaining": 652,
+      "seek_position": 29
+    }
+  ]
+}
+<- CONTINUE 2 Changed {"zones_seek_changed":[{"zone_id":"16014625721613bb2800bd056aa35ecd7756","queue_time_remaining":65
+3f6eb313-d0f0-4123-9f72-139a53681764 DESKTOP-4T1V6D8 1.7 (build 710) stable - Changed {
+  "zones_seek_changed": [
+    {
+      "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+      "queue_time_remaining": 651,
+      "seek_position": 30
+    }
+  ]
+}
+<- CONTINUE 2 Changed {"zones_seek_changed":[{"zone_id":"16014625721613bb2800bd056aa35ecd7756","queue_time_remaining":65
+3f6eb313-d0f0-4123-9f72-139a53681764 DESKTOP-4T1V6D8 1.7 (build 710) stable - Changed {
+  "zones_seek_changed": [
+    {
+      "zone_id": "16014625721613bb2800bd056aa35ecd7756",
+      "queue_time_remaining": 650,
+      "seek_position": 31
+    }
+  ]
+}
